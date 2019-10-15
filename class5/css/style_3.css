@@ -1,0 +1,41 @@
+*{
+    font-size:12px
+}
+.tip{
+    float: top;
+    background-color: #87CEEB;
+    height: 80px;
+    color:white;
+    line-height: 80px;
+    padding-left:20px;
+    margin: 5px;
+}
+.mess-1,.mess-2,.mess-3,.mess-4,.mess-5{
+    width: 500px;
+    height: 80px;
+    border: 1px solid lightgoldenrodyellow;
+
+}
+.title{
+ float: left;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+.name{
+ margin-left: 10px;
+}
+.content{
+ font-weight:normal; 
+
+}
+h3{
+    width:100px;
+    height: 80px;
+    text-align: center;
+    background-color: #87CEEB;
+    color: white;
+    float: left;
+    margin: 0;
+    padding: 0;
+    line-height:80px;
+}

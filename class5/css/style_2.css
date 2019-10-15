@@ -1,0 +1,25 @@
+*{
+    margin:10px;
+    padding:0px;
+    font-size:12px
+}
+
+h1{
+    font-size:30px
+ }
+h3{
+    font-size:20px
+}
+.tip{
+    margin-right:15px;
+    float:left;
+    text-align: center;
+    background-color:skyblue;
+    width: 150px;
+    height:610px
+}
+.title{
+    font-size:15px ;
+ 
+}
+
