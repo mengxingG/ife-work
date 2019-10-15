@@ -11,7 +11,8 @@
     margin: 5px;
 }
 .mess-1,.mess-2,.mess-3,.mess-4,.mess-5{
-    width: 500px;
+    width: 100%;
+    margin-right:4px;
     height: 80px;
     border: 1px solid lightgoldenrodyellow;
 
