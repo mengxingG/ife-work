@@ -1,0 +1,10 @@
+.all{
+	display: flex;
+	align-items: flex-start;//顶端对齐，不等高
+}
+.left{
+	flex: none;
+}
+.right: {
+	flex: auto;
+}

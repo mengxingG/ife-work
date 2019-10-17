@@ -1,0 +1,11 @@
+.all{
+	overflow: auto;
+}
+.left{
+	float: left;
+	margin-right: 20px;
+}
+.right{
+	margin-left: 0;
+	overflow: auto;
+}

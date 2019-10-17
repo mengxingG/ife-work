@@ -1,0 +1,113 @@
+/*绝对定位法
+.all{
+  height: 300px;
+  margin: 5px;
+  border: 1px solid red;
+  position: relative;
+}
+.left{
+  position: absolute;
+  width: 180px;
+  height: 300px;
+ left:0px;
+  background-color: blue;
+}
+.right{
+  position: absolute;
+  width: 100px;
+  height: 300px;
+  right:0px;
+  background-color: yellow;
+}
+.middle{
+  height: 300px;
+  background-color: pink;
+  margin: 0;
+}*/
+/*sb
+.all{
+  height: 300px;
+  padding: 0 100px 0 180px;
+}
+.middle{
+  float:left; 
+  height: 300px;
+  width: 100%;
+
+  background-color: pink;
+}
+.left{
+  float:left; 
+  width: 180px;
+  height: 300px;
+
+  margin-left:-100%;
+  position: relative;
+  left:-180px;
+  background-color: blue;
+}
+.right{
+  float:left; 
+  width: 100px;
+  height: 300px;
+
+  margin-left:-100px;
+  position: relative;
+  right:-100px;
+  background-color: yellow;
+}
+*/
+/*自身浮动法
+.all{
+  height: 300px;
+  margin: 5px;
+  border: 1px solid red;
+  overflow: hidden;
+  font-size: 0;
+}
+.middle{
+  height: 300px;
+  background-color: pink;
+  margin: 0 100px 0 180px;
+}
+.left{
+  float: left;
+  width: 180px;
+  height: 300px;
+  background-color: blue;
+}
+.right{
+  float: right;
+  width: 100px;
+  height: 300px;
+  background-color: yellow;
+}
+*/
+/*sf*/
+.in{
+  float:left; 
+  height: 300px;
+  width: 100%;
+
+  background-color: pink;
+}
+.left{
+  float:left; 
+  width: 180px;
+  height: 300px;
+
+  margin-left:-100%;
+  background-color: blue;
+}
+.right{
+  float:left; 
+  width: 100px;
+  height: 300px;
+
+  margin-left:-100px;
+  background-color: yellow;
+}
+.middle{
+	padding: 0 100px 0 180px;
+	height: 300px;
+}

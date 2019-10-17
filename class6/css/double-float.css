@@ -1,0 +1,14 @@
+.all{
+	box-sizing: content-box;
+	overflow: auto;//清除浮动
+}
+.left{
+	float: left;
+	box-sizing: border-box;
+
+}
+.right{
+	float: left;
+	box-sizing: border-box;
+	width: calc(100% - 140px);
+}

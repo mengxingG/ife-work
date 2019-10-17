@@ -1,0 +1,14 @@
+.all{
+	font-size: 0px;//消除空格
+	box-sizing: content-box;
+}
+.left,.right{
+	box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;//上端对齐
+    font-size: 14px;
+}
+
+.right{
+	width: calc(100%-140px);//计算宽度
+}
