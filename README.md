@@ -6,3 +6,7 @@
 [demo预览](https://codepen.io/mengxingg/pen/poojGeJ)
 
 [第二次课程小结](https://www.jianshu.com/p/ca9630f4d731)
+#### 第五天：三份简历
+[三份简历demo预览](https://mengxingg.github.io/ife-work/class5/resume.html)
+
+[课程小结(浮动清除)](https://www.jianshu.com/p/ee91f7776ac8)
