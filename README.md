@@ -24,3 +24,7 @@
 [网站仿写demo](https://mengxingg.github.io/ife-work/class7_Layout/class7_page/index.html)
 
 [课程小结](https://www.jianshu.com/p/e2102a716aac)
+#### 第九天：切图 仿写静态网站
+[网站仿写demo](https://mengxingg.github.io/ife-work/class9/index.html)
+
+[课程小结](https://www.jianshu.com/p/f42e2588e6d2)
