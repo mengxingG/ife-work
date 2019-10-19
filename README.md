@@ -10,3 +10,21 @@
 [三份简历demo预览](https://mengxingg.github.io/ife-work/class5/resume.html)
 
 [课程小结(浮动清除)](https://www.jianshu.com/p/ee91f7776ac8)
+#### 第六天：布局
+[class6:左侧定宽 右侧自适应](https://mengxingg.github.io/ife-work/class6/two-put.html)
+#### 第七天：布局
+[两列布局](https://mengxingg.github.io/ife-work/class7_Layout/class7_double)
+
+[三列布局](https://mengxingg.github.io/ife-work/class7_Layout/class7_three)
+
+[圣杯布局](https://mengxingg.github.io/ife-work/class7_Layout/layout-sb)
+
+[双飞翼布局](https://mengxingg.github.io/ife-work/class7_Layout/layout-sf)
+
+[网站仿写demo](https://mengxingg.github.io/ife-work/class7_Layout/class7_page/index.html)
+
+[课程小结](https://www.jianshu.com/p/e2102a716aac)
+#### 第九天：切图 仿写静态网站
+[网站仿写demo](https://mengxingg.github.io/ife-work/class9/index.html)
+
+[课程小结](https://www.jianshu.com/p/f42e2588e6d2)
