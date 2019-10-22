@@ -1,0 +1,291 @@
+.mid-right{
+	float: left;
+	height: calc(100% - 80px);
+	border-bottom: 1px solid #dedede;
+	width: calc(100% - 405px);
+}
+.right-up{
+	height: 71px;
+	border-bottom: 1px solid #dedede;
+	margin-left: 10px
+}
+.right-up-title{
+	float: left;
+	font-weight: bold;
+	font-size: 25px;
+	height: 71px;
+	line-height: 71px;
+}
+.right-page{
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+	width:72px;
+	height: 30px;
+	border:2px solid #dedede;
+	border-radius: 5%;
+	background-color: rgba(244,245,248,0.5);
+}
+.right-page1{
+	float: left;
+}
+.right-page2{
+	float: right;
+	text-align: right;
+	width:36px;
+	height: 30px;
+	border-left: 1px solid #dedede;
+}
+.right-num{
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+	font-size: 15px;
+	width:72px;
+	height: 30px;
+	line-height: 30px;
+	border-left: 1px solid #dedede;
+	text-align: center;
+}
+
+.right-up-pic{
+	float: right;
+	margin-top: 23px;
+	margin-right: 10px;
+	border: 1px solid #dedede;
+	border-radius: 5%;
+	width:102px;
+	height: 30px;
+	background-color: rgb(244,245,248,0.5);
+}
+.up-pic1{
+	float: right;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+.up-pic2{
+	float: left;
+	width: 36px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-left: 1px solid #dedede;
+	border-right: 1px solid #dedede;
+	
+}
+.up-pic3{
+	float: left;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+.right-up-pic img{
+	float: right;
+}
+.right-down{
+	float: left;
+	height: calc(100% - 82px);
+	width: 100%;
+	background-color: white;
+	overflow: auto;
+}
+.last-mes{
+	width: 100%;
+}
+
+.last-mes1 img{
+	float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.mes1-all{
+	float: left;
+	width: 90%;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.mes1-title{
+	float: left;
+	font-size: 15px;
+	font-weight: bold;
+	width: 120px;
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.mes1-time{
+    float: left;
+	font-size: 15px;
+	color: #dedede;
+	width: calc(90% - 120px);
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.mes1-content{
+	float: left;
+	text-align: left;
+	font-size: 15px;
+	width: 95%;
+}
+.last-mes2 img{
+	float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.mes2-all{
+	float: left;
+	width: 90%;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.mes2-title{
+	float: left;
+	font-size: 15px;
+	font-weight: bold;
+	width: 120px;
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.mes2-time{
+    float: left;
+	font-size: 15px;
+	color: #dedede;
+	width: calc(90% - 120px);
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.mes2-content{
+	float: left;
+	text-align: left;
+	font-size: 15px;
+	width: 95%;
+}
+.last-last{
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	border-bottom: 1px solid #dedede;
+}
+.last-last-cont{
+	float: left;
+	font-size: 15px;
+	color: #dedede;
+	background-color: white;
+	margin-left: calc(50% - 10px);
+	margin-top: -10px;
+}
+.day-mes{
+	width: 100%;
+	float: left;
+}
+.day-mes1 img,.day-mes2 img{
+	float: left;
+	margin-left:15px;
+	margin-top: 15px; 
+}
+.day-mes1-all,.day-mes2-all{
+	float: left;
+	width: 90%;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.day-mes1-title,.day-mes2-title{
+	float: left;
+	font-size: 15px;
+	font-weight: bold;
+	width: 120px;
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.day-mes1-time,.day-mes2-time{
+    float: left;
+	font-size: 15px;
+	color: #dedede;
+	width: calc(90% - 120px);
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.day-mes1-content,.day-mes2-content{
+	float: left;
+	text-align: left;
+	font-size: 15px;
+	width: 95%;
+}
+.last-last-cont2{
+	float: left;
+	font-size: 15px;
+	color: lightblue;
+	background-color: white;
+	margin-left: calc(50% - 10px);
+	margin-top: -10px;
+	font-weight: bold;
+}
+.new-mes{
+	width: 100%;
+	float: left;
+}
+.new-mes1 img{
+	float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.new-mes1-all{
+	float: left;
+	width: 90%;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.new-mes1-title{
+	float: left;
+	font-size: 15px;
+	font-weight: bold;
+	width: 120px;
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.new-mes1-time{
+    float: left;
+	font-size: 15px;
+	color: #dedede;
+	width: calc(90% - 120px);
+	height: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+.new-mes1-content{
+	float: left;
+	text-align: left;
+	font-size: 15px;
+	width: 95%;
+}
+.new-add{
+	float: left;
+	margin: 35px auto;
+	width: 90%;
+	height: 53px;
+	border:1px solid #dedede;
+	border-radius: 2%;
+	line-height: 57px;
+}
+.new-add img{
+	float: left;
+}
+.new-content{
+	float: left;
+	margin-left: 10px;
+	font-size: 15px;
+	height: 57px;
+	width: 85%;
+	line-height: 57px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+    overflow: hidden;
+}
