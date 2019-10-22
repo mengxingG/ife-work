@@ -28,3 +28,7 @@
 [网站仿写demo](https://mengxingg.github.io/ife-work/class9/index.html)
 
 [课程小结](https://www.jianshu.com/p/f42e2588e6d2)
+#### 第十一天：网站仿写
+[demo预览](https://mengxingg.github.io/ife-work/class11/index.html)
+
+[遇到的问题及小结](https://www.jianshu.com/p/94c76fd62695)
