@@ -32,3 +32,6 @@
 [demo预览](https://mengxingg.github.io/ife-work/class11/index.html)
 
 [遇到的问题及小结](https://www.jianshu.com/p/94c76fd62695)
+#### 第十六天：js基本语法
+[demo预览](https://mengxingg.github.io/ife-work/class16/index.html)
+[遇到的问题及小结](https://www.jianshu.com/p/5ac72e76d37c)
