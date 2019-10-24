@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>从1到100</title>
+</head>
+<body>
+<p id="result"></div>
+<script type="text/javascript">
+   var i,
+   str = "";
+	for(i=1;i<=100;i++){
+		var shi = i/10;
+		var ge = i%10;
+     if( i%3 ===0 || shi ===3 || ge === 3){
+     	str = str + " " + "PA";
+     }else{
+     	str = str + " " +i;
+     }
+	}
+	document.getElementById('result').innerHTML = str;
+</script>
+</body>
+</html>

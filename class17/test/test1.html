@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">    
+    <title>IFE ECMAScript</title>
+</head>
+<body>        
+    <input id="first-number" type="number" value="0" placeholder="第一个数字">
+    <input id="second-number" type="number" value="0" placeholder="第二个数字">
+    <button id="add-btn">加</button>
+    <button id="minus-btn">减</button>
+    <button id="times-btn">乘</button>
+    <button id="divide-btn">除</button>
+    <p id="result">运算结果</p>
+    <script>
+
+      if( isNaN(document.getElementById('first-number').value) || 
+          isNaN(document.getElementById('second-number').value)
+        ){
+           alert("错误错误");
+         }else{
+
+        document.getElementById('add-btn').onclick = function(){
+        document.getElementById('result').innerHTML =
+        parseFloat(document.getElementById('first-number').value)+
+        parseFloat(document.getElementById('second-number').value);
+       }
+
+        document.getElementById('minus-btn').onclick = function(){
+        document.getElementById('result').innerHTML = 
+        parseFloat(document.getElementById('first-number').value) -
+        parseFloat(document.getElementById('second-number').value);
+       }
+       
+       document.getElementById('times-btn').onclick = function(){
+        document.getElementById('result').innerHTML = 
+        parseFloat(document.getElementById('first-number').value) *
+        parseFloat(document.getElementById('second-number').value);
+       }
+       
+       document.getElementById('divide-btn').onclick = function(){
+        if( document.getElementById('second-number').value == "0"){
+           document.getElementById('result').innerHTML = '除数不能为0' ;
+           console.log("错误！除数为0");
+        }else
+          document.getElementById('result').innerHTML = 
+          parseFloat(document.getElementById('first-number').value) /
+        parseFloat(document.getElementById('second-number').value);
+       }
+   }   
+    </script>
+</body>
+</html>
